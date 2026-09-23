@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sherif0786/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/sherif0786/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sherif0786/leetcode/tree/master/0038-count-and-say) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sherif0786/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sherif0786/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sherif0786/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sherif0786/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
