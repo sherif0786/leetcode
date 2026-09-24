@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/sherif0786/leetcode/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/sherif0786/leetcode/tree/master/0260-single-number-iii) |
 | [0804-unique-morse-code-words](https://github.com/sherif0786/leetcode/tree/master/0804-unique-morse-code-words) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sherif0786/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sherif0786/leetcode/tree/master/0189-rotate-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sherif0786/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Backtracking
 |  |
 | ------- |
