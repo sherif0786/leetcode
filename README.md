@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sherif0786/leetcode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/sherif0786/leetcode/tree/master/0189-rotate-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sherif0786/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Backtracking
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sherif0786/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/sherif0786/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sherif0786/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sherif0786/leetcode/tree/master/0137-single-number-ii) |
