@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sherif0786/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/sherif0786/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sherif0786/leetcode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/sherif0786/leetcode/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sherif0786/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0804-unique-morse-code-words](https://github.com/sherif0786/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/sherif0786/leetcode/tree/master/0811-subdomain-visit-count) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sherif0786/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/sherif0786/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/sherif0786/leetcode/tree/master/0189-rotate-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sherif0786/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Backtracking
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sherif0786/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/sherif0786/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sherif0786/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sherif0786/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sherif0786/leetcode/tree/master/0137-single-number-ii) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sherif0786/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/sherif0786/leetcode/tree/master/0067-add-binary) |
 ## Sorting
 |  |
 | ------- |
