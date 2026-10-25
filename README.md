@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sherif0786/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0804-unique-morse-code-words](https://github.com/sherif0786/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/sherif0786/leetcode/tree/master/0811-subdomain-visit-count) |
+| [2409-count-days-spent-together](https://github.com/sherif0786/leetcode/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sherif0786/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sherif0786/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sherif0786/leetcode/tree/master/0189-rotate-array) |
+| [2409-count-days-spent-together](https://github.com/sherif0786/leetcode/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sherif0786/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Backtracking
 |  |
