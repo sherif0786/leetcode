@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sherif0786/leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sherif0786/leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/sherif0786/leetcode/tree/master/0067-add-binary) |
+| [0139-word-break](https://github.com/sherif0786/leetcode/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sherif0786/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0804-unique-morse-code-words](https://github.com/sherif0786/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/sherif0786/leetcode/tree/master/0811-subdomain-visit-count) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sherif0786/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/sherif0786/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/sherif0786/leetcode/tree/master/0139-word-break) |
 ## Manacher
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sherif0786/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sherif0786/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sherif0786/leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/sherif0786/leetcode/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/sherif0786/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sherif0786/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/sherif0786/leetcode/tree/master/0228-summary-ranges) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sherif0786/leetcode/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/sherif0786/leetcode/tree/master/0139-word-break) |
 | [0804-unique-morse-code-words](https://github.com/sherif0786/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/sherif0786/leetcode/tree/master/0811-subdomain-visit-count) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sherif0786/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sherif0786/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/sherif0786/leetcode/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -150,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/sherif0786/leetcode/tree/master/0384-shuffle-an-array) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sherif0786/leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sherif0786/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
