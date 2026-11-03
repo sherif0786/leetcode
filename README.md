@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sherif0786/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/sherif0786/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sherif0786/leetcode/tree/master/0139-word-break) |
+| [0221-maximal-square](https://github.com/sherif0786/leetcode/tree/master/0221-maximal-square) |
 ## Manacher
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sherif0786/leetcode/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/sherif0786/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sherif0786/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0221-maximal-square](https://github.com/sherif0786/leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/sherif0786/leetcode/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sherif0786/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/sherif0786/leetcode/tree/master/0260-single-number-iii) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sherif0786/leetcode/tree/master/0054-spiral-matrix) |
+| [0221-maximal-square](https://github.com/sherif0786/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sherif0786/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
