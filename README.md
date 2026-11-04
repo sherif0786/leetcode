@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sherif0786/leetcode/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/sherif0786/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sherif0786/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/sherif0786/leetcode/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/sherif0786/leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/sherif0786/leetcode/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sherif0786/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sherif0786/leetcode/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/sherif0786/leetcode/tree/master/0139-word-break) |
+| [0217-contains-duplicate](https://github.com/sherif0786/leetcode/tree/master/0217-contains-duplicate) |
 | [0804-unique-morse-code-words](https://github.com/sherif0786/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/sherif0786/leetcode/tree/master/0811-subdomain-visit-count) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sherif0786/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sherif0786/leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/sherif0786/leetcode/tree/master/0217-contains-duplicate) |
 ## Quicksort
 |  |
 | ------- |
