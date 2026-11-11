@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sherif0786/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/sherif0786/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/sherif0786/leetcode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/sherif0786/leetcode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/sherif0786/leetcode/tree/master/0221-maximal-square) |
 ## Manacher
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sherif0786/leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/sherif0786/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sherif0786/leetcode/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/sherif0786/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/sherif0786/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sherif0786/leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/sherif0786/leetcode/tree/master/0139-word-break) |
