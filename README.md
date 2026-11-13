@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sherif0786/leetcode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/sherif0786/leetcode/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/sherif0786/leetcode/tree/master/0376-wiggle-subsequence) |
+| [0553-optimal-division](https://github.com/sherif0786/leetcode/tree/master/0553-optimal-division) |
 ## Manacher
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/sherif0786/leetcode/tree/master/0260-single-number-iii) |
 | [0376-wiggle-subsequence](https://github.com/sherif0786/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0384-shuffle-an-array](https://github.com/sherif0786/leetcode/tree/master/0384-shuffle-an-array) |
+| [0553-optimal-division](https://github.com/sherif0786/leetcode/tree/master/0553-optimal-division) |
 | [0804-unique-morse-code-words](https://github.com/sherif0786/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/sherif0786/leetcode/tree/master/0811-subdomain-visit-count) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sherif0786/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sherif0786/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sherif0786/leetcode/tree/master/0189-rotate-array) |
 | [0384-shuffle-an-array](https://github.com/sherif0786/leetcode/tree/master/0384-shuffle-an-array) |
+| [0553-optimal-division](https://github.com/sherif0786/leetcode/tree/master/0553-optimal-division) |
 | [2409-count-days-spent-together](https://github.com/sherif0786/leetcode/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sherif0786/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Backtracking
