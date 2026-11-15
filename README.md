@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sherif0786/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/sherif0786/leetcode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sherif0786/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/sherif0786/leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/sherif0786/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sherif0786/leetcode/tree/master/0078-subsets) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sherif0786/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sherif0786/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sherif0786/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sherif0786/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
