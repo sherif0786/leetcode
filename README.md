@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sherif0786/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0804-unique-morse-code-words](https://github.com/sherif0786/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/sherif0786/leetcode/tree/master/0811-subdomain-visit-count) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sherif0786/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/sherif0786/leetcode/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sherif0786/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sherif0786/leetcode/tree/master/0067-add-binary) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sherif0786/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sorting
 |  |
 | ------- |
