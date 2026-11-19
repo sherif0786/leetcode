@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/sherif0786/leetcode/tree/master/0553-optimal-division) |
 | [0804-unique-morse-code-words](https://github.com/sherif0786/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/sherif0786/leetcode/tree/master/0811-subdomain-visit-count) |
+| [0976-largest-perimeter-triangle](https://github.com/sherif0786/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sherif0786/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sherif0786/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sherif0786/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sherif0786/leetcode/tree/master/0189-rotate-array) |
 | [0384-shuffle-an-array](https://github.com/sherif0786/leetcode/tree/master/0384-shuffle-an-array) |
 | [0553-optimal-division](https://github.com/sherif0786/leetcode/tree/master/0553-optimal-division) |
+| [0976-largest-perimeter-triangle](https://github.com/sherif0786/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2409-count-days-spent-together](https://github.com/sherif0786/leetcode/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sherif0786/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Backtracking
@@ -147,11 +149,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sherif0786/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/sherif0786/leetcode/tree/master/0217-contains-duplicate) |
+| [0976-largest-perimeter-triangle](https://github.com/sherif0786/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sherif0786/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Quicksort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sherif0786/leetcode/tree/master/0075-sort-colors) |
+| [0976-largest-perimeter-triangle](https://github.com/sherif0786/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -193,4 +197,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/sherif0786/leetcode/tree/master/0376-wiggle-subsequence) |
+| [0976-largest-perimeter-triangle](https://github.com/sherif0786/leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/sherif0786/leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
