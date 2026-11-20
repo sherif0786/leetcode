@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/sherif0786/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0384-shuffle-an-array](https://github.com/sherif0786/leetcode/tree/master/0384-shuffle-an-array) |
 | [0553-optimal-division](https://github.com/sherif0786/leetcode/tree/master/0553-optimal-division) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/sherif0786/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/sherif0786/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/sherif0786/leetcode/tree/master/0811-subdomain-visit-count) |
 | [0976-largest-perimeter-triangle](https://github.com/sherif0786/leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sherif0786/leetcode/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/sherif0786/leetcode/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/sherif0786/leetcode/tree/master/0217-contains-duplicate) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/sherif0786/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/sherif0786/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/sherif0786/leetcode/tree/master/0811-subdomain-visit-count) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sherif0786/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -197,9 +199,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/sherif0786/leetcode/tree/master/0376-wiggle-subsequence) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/sherif0786/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0976-largest-perimeter-triangle](https://github.com/sherif0786/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Polygons
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/sherif0786/leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/sherif0786/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 <!---LeetCode Topics End-->
