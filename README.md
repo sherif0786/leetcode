@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sherif0786/leetcode/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/sherif0786/leetcode/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sherif0786/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0399-evaluate-division](https://github.com/sherif0786/leetcode/tree/master/0399-evaluate-division) |
 | [0804-unique-morse-code-words](https://github.com/sherif0786/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/sherif0786/leetcode/tree/master/0811-subdomain-visit-count) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/sherif0786/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/sherif0786/leetcode/tree/master/0260-single-number-iii) |
 | [0376-wiggle-subsequence](https://github.com/sherif0786/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0384-shuffle-an-array](https://github.com/sherif0786/leetcode/tree/master/0384-shuffle-an-array) |
+| [0399-evaluate-division](https://github.com/sherif0786/leetcode/tree/master/0399-evaluate-division) |
 | [0553-optimal-division](https://github.com/sherif0786/leetcode/tree/master/0553-optimal-division) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/sherif0786/leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/sherif0786/leetcode/tree/master/0804-unique-morse-code-words) |
@@ -231,4 +233,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sherif0786/leetcode/tree/master/0292-nim-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sherif0786/leetcode/tree/master/0399-evaluate-division) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sherif0786/leetcode/tree/master/0399-evaluate-division) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sherif0786/leetcode/tree/master/0399-evaluate-division) |
+## Graph Theory
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sherif0786/leetcode/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sherif0786/leetcode/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sherif0786/leetcode/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sherif0786/leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
